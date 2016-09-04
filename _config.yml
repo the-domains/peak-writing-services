@@ -1,20 +1,4 @@
-name: Peak Writing Services
-favicon: null
-layout_spectrum: 0.27714
 typography_spectrum: 0.76206
-title: Get It Write the First Time
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6890843452420086
   saturation: 0.5979883018881083
   rhythmicContrast: 0.020094469422474504
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.27714
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Peak Writing Services
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: get it writ the first time
 purpose: []
